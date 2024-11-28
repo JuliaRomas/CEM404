@@ -1,0 +1,38 @@
+/*RESETE*/
+*,*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(245, 221, 186);
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+
+.redes ul{
+    display: flex;
+    justify-content: center;
+}
+.rede ul a {
+    display: block;
+    padding: 10px;
+}
+
+
+img{
+    width:90 ;
+    height:80px ;
+    padding-right: 10px;
+}
+h1,h2{
+    text-align: center;
+}
+li{
+    text-align: center;
+}

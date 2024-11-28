@@ -36,4 +36,13 @@ padding: 15px;
     color:rgb(245, 221, 186);
  }
 
+ h1,h4,h5,h6,h7{
+visibility:hidden ;
+ }
  
+ p{
+    visibility: hidden;
+ }
+ img{
+    visibility: hidden;
+ }
